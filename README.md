@@ -10,9 +10,9 @@ I'm a Software Engineering student at Alx Blended learing cohort 2, and a Data E
 - 🌱 I’m currently learning Python, SQL and how to contribute to opensource.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Backend Engineer or Data Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing tenkunoela@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1kg-TeQ_eES29TMdzaocfvDCa50Gkcqlf/view?usp=sharing) and contact me by emailing tenkunoela@gmail.com.
 
 ---
 
-| <!-- img align="center" src="https://github-readme-stats.vercel.app/api?username=Noela-T&show_icons=true&include_all_commits=true&hide_border=true" alt="Noela's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-//langs/?username=Noela_T&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" / --> |
+
 | ------------- | ------------- |
